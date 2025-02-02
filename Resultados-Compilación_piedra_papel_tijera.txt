@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 21:55...
+1>------ Operación Compilar iniciada: Proyecto: Ejercicio4_piedra_papel_tijera, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Ejercicio4_piedra_papel_tijera -> C:\Users\Windows\source\repos\Ejercicio4_piedra_papel_tijera\bin\Debug\net8.0\Ejercicio4_piedra_papel_tijera.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 21:56 y tardó 00,444 segundos ==========
